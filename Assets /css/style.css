@@ -1,0 +1,23 @@
+section{
+    font-family: 'Cabin', sans-serif;
+    }
+.boton{
+    display:inline-flex;
+}    
+.navbar-brand{
+    font-size: 39px;
+}
+@media(max-width:576px){
+    header h1,h2{
+        text-align: center;
+    }
+    .boton{
+        display: inline-flex;
+        justify-content: center;       
+    }
+    .flex{
+        text-align: center;   
+    }    
+    
+    
+} 
